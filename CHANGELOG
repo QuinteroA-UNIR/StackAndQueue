@@ -1,0 +1,10 @@
+# CHANGELOG
+
+## 2018.11.26-21:49
+
++ Working Stack structure.
++ Working Queue structure.
++ Working Stack Tests.
++ Working Queue Tests.
++ Working Node for Queue and Stack;
++ Working Node Tests.
