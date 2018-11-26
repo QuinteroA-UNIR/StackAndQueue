@@ -22,7 +22,7 @@ public class Examples {
 		System.out.println("--- Pruebas para el TAD Queue ---");
 		System.out.println("---------------------------------");
 
-		System.out.println("--Creación de una cola vacía:");
+		System.out.println("--Creación de una cola vacia:");
 		Queue q = new Queue();
 		System.out.println(q + " Cantidad de elementos: " + q.getCount());
 		System.out.println();
@@ -89,7 +89,7 @@ public class Examples {
 		System.out.println("--- Pruebas para el TAD Stack ---");
 		System.out.println("---------------------------------");
 
-		System.out.println("--Creación de una pila vacía:");
+		System.out.println("--Creación de una pila vacia:");
 		Stack s = new Stack();
 		System.out.println(s + " Cantidad de elementos: " + s.getCount());
 		System.out.println();
