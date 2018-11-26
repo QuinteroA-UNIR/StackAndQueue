@@ -50,7 +50,7 @@ En caso de que el elemento no exista en la cola, el método devuelve el valor `-
 
 Se escogió retornar un entero como resultado a esta operación, con posición invalida de valor `-1`, dado que ese es el estándar para el TAD cola que se maneja dentro de Java.
 
-### Mostrar
+#### Mostrar
 
 Para imprimir los valores de la cola, tenemos una función `print` que ya nos imprime a la salida estándar, `stdOut`, el contenido de la cola, dentro de corchetes, los elementos separados por coma, cada uno dentro de comillas. Siendo el frente de la cola el elemento más a la izquierda en la representación, y el posterior el elemento más a la derecha.
 
@@ -96,7 +96,7 @@ En caso de que el elemento no exista en la pila, el método devuelve el valor `-
 
 Se escogió retornar un entero como resultado a esta operación, con posición invalida de valor `-1`, dado que ese es el estándar para el TAD pila que se maneja dentro de Java.
 
-### Mostrar
+#### Mostrar
 
 Para imprimir los valores de la pila, tenemos una función `print` que ya nos imprime a la salida estándar, `stdOut`, el contenido de la pila, dentro de corchetes, los elementos separados por coma, cada uno dentro de comillas. Siendo el frente de la pila el elemento más a la izquierda en la representación, y el posterior el elemento más a la derecha.
 
